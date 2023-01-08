@@ -43,13 +43,15 @@ def N_max_elements(list, N):
             return result_list
 
 
-st.write("# Welcome to Streamlit! 👋")
+st.write("# முன்னோடி தேடல்")
 
-st.sidebar.success("Select a demo above.")
+st.sidebar.success("Done by Susindhar")
 
 st.markdown(
     """
     கமாவால் பிரிக்கப்பட்ட சொற்களை உள்ளிடவும்.
+
+    மேலும் தகவலுக்கு https://github.com/susindhar21/precedents-tva க்குச் செல்லவும்
     """
 )
 
